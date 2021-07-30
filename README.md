@@ -16,7 +16,6 @@ https://codepen.io/Veeru4d/full/eYWExXW
 https://codepen.io/Veeru4d/full/OJmjdBY
 
 6.Basic Calculator
-
 https://codepen.io/Veeru4d/full/OJmZQOX
 
 (Working on some more...!!!!)
