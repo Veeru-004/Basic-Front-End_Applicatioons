@@ -15,15 +15,18 @@ https://codepen.io/Veeru4d/full/eYWExXW
 5.Build a Tribute Page
 https://codepen.io/Veeru4d/full/OJmjdBY
 
+6. Basic Calculator
+
+https://codepen.io/Veeru4d/full/OJmZQOX
 
 (Working on some more...!!!!)
-6.Build a Restaurant Page
+7.Build a Restaurant Page
 
 
-7.Build ToDo-List App using JavaScript
+8.Build ToDo-List App using JavaScript
 
 
-8.Build Responsive CV
+9.Build Responsive CV
 
 
 
